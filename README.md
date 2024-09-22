@@ -1,5 +1,7 @@
 # fitness-application
 This is the Fitness application that can sync real time data with your fitness device
+This application is deployed as well on netlify
+
 
 This is a MERN stack fitness tracking web application that allows users to set fitness goals, track workouts, and monitor their progress. The app integrates with Supabase for backend storage and supports real-time tracking, reminders, and notifications. Additionally, it can pull data from wearable devices such as Google Fit or Apple Health.
 
